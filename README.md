@@ -1,7 +1,7 @@
 # Struts2 Thymeleaf Plug-in
 
 A Struts2 plug-in for using the [Thymeleaf](http://www.thymeleaf.org) templating engine.
-##REVISE FOR MY OWN USE
+## REVISE FOR MY OWN USE
 **this is for my own project use*** only
 
 ## Example Usage
